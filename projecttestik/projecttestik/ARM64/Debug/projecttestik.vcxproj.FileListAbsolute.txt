@@ -1,0 +1,4 @@
+C:\Users\nikitastojanov\source\repos\projecttestik\projecttestik\ARM64\Debug\projecttestik.vcxproj.AssemblyReference.cache
+C:\Users\nikitastojanov\source\repos\projecttestik\projecttestik\ARM64\Debug\projecttestik.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\nikitastojanov\source\repos\projecttestik\projecttestik\ARM64\Debug\projecttestik.MyForm.resources
+C:\Users\nikitastojanov\source\repos\projecttestik\projecttestik\ARM64\Debug\projecttestik.vcxproj.GenerateResource.cache
